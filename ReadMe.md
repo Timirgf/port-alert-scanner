@@ -83,11 +83,11 @@ Enter an IP address or website: 127.0.0.1
 
 ### Version 1 Code
 
-![Version 1 Code](screenshots/version1-code.png)
+![Version 1 Code](Screenshot/version1-code.png)
 
 ### Version 1 Scanner Output
 
-![Version 1 Scanner Result](screenshots/version1-result.png)
+![Version 1 Scanner Result](Screenshot/version1-result.png)
 
 ---
 
