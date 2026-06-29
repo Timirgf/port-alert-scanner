@@ -89,16 +89,7 @@ Enter an IP address or website: 127.0.0.1
 
 ![Version 1 Scanner Result](Screenshot/version1-result.png)
 
----
 
-## Skills Demonstrated
-
-* Python programming
-* Socket programming
-* Network troubleshooting
-* TCP communication
-* Git version control
-* GitHub project management
 
 ---
 
